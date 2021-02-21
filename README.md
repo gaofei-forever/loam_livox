@@ -41,8 +41,7 @@ Clone the repository and catkin_make:
     catkin_make
     source ~/catkin_ws/devel/setup.bash
 ```
-## 3. Directly run
-### 3.1 Livox Mid-40
+## 3. Directly run Livox Mid-40
 Connect to your PC to Livox LiDAR (Mid-40) by following  [Livox-ros-driver installation](https://github.com/Livox-SDK/livox_ros_driver), then (launch our algorithm **first**, then livox-ros-driver):
 
 ```
@@ -51,8 +50,7 @@ Connect to your PC to Livox LiDAR (Mid-40) by following  [Livox-ros-driver insta
 ```
 
 ## 4. Rosbag Example
-### 4.1. **Common rosbag**
-Download [Our recorded rosbag](https://drive.google.com/drive/folders/1HWomWWPSEVvka2QVB2G41iRvSwIt5NWf?usp=sharing) and then
+Download [rosbag](https://drive.google.com/drive/folders/1HWomWWPSEVvka2QVB2G41iRvSwIt5NWf?usp=sharing) and then
 ```
 roslaunch loam_livox rosbag.launch
 rosbag play YOUR_DOWNLOADED.bag
