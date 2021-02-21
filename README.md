@@ -15,11 +15,6 @@
 
 In the development of our package, we reference to LOAM, [LOAM_NOTED](https://github.com/cuitaixiang/LOAM_NOTED), and [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM).
 
-**Developer:** [Jiarong Lin](https://github.com/ziv-lin)
-
-**Our related paper**: our related papers are now available on arxiv:
-1. [Loam_livox: A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV](https://arxiv.org/abs/1909.06700)
-2. [A fast, complete, point cloud based loop closure for LiDAR odometry and mapping](https://arxiv.org/abs/1909.11811)
 
 **Our related video**: our related videos are now available on YouTube (click below images to open):
 <div align="center">
