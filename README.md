@@ -16,11 +16,6 @@
 In the development of our package, we reference to LOAM, [LOAM_NOTED](https://github.com/cuitaixiang/LOAM_NOTED), and [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM).
 
 
-**Our related video**: our related videos are now available on YouTube (click below images to open):
-<div align="center">
-<a href="https://youtu.be/WHbbtU-Q9-k" target="_blank"><img src="pics/video_loam.png" alt="video" width="45%" /></a>
-<a href="https://youtu.be/Uq8rUEk-XnI" target="_blank"><img src="pics/video_lc.png" alt="video" width="45%" /></a>
-</div>
 
 
 ## 1. Prerequisites
